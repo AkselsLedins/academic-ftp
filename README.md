@@ -1,5 +1,5 @@
-![Screenshot](http://git.aksels.me/academic/my-ftp/raw/master/screenshots/server.png)
-![Screenshot](http://git.aksels.me/academic/my-ftp/raw/master/screenshots/client.png)
+![Screenshot](https://github.com/AkselsLedins/academic-ftp/raw/master/screenshots/server.png)
+![Screenshot](https://github.com/AkselsLedins/academic-ftp/raw/master/screenshots/client.png)
 
 FTP Client and Server in C.  
 
